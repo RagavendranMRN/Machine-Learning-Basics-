@@ -24,5 +24,22 @@ The most powerful and flexible open source data analysis / manipulation tool ava
 ###### Documentation
 
 The official documentation is hosted on PyData.org: https://pandas.pydata.org/pandas-docs/stable
- 
 
+
+-----
+#### NumPy
+NumPy is the fundamental package needed for scientific computing with Python.
+The ndarray (NumPy Array) is a multidimensional array used to store values of same datatype. These arrays are indexed just like Sequences, starts with zero
+
+###### Main Features of Panda
+* A powerful N-Dimensional array
+* Sophisticated Functions
+* Mathematical and Logical opertions
+* Fourier Transforms
+* Linear Algebra, Random Number Generation
+
+###### Documentation
+The official documentation is hosted on numpy.org: https://www.numpy.org
+
+
+-----

@@ -7,7 +7,7 @@ This repo is for "Machine Learning from very basics".
 * Scikit-learn
 * matplotlib
 
-# Let's look into the use of packages
+# Let's look into the use of packages :+1:
 
 ### Pandas
 Pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. 

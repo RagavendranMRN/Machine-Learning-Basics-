@@ -31,7 +31,7 @@ The official documentation is hosted on PyData.org: https://pandas.pydata.org/pa
 NumPy is the fundamental package needed for scientific computing with Python.
 The ndarray (NumPy Array) is a multidimensional array used to store values of same datatype. These arrays are indexed just like Sequences, starts with zero
 
-###### Main Features of Panda
+###### Main Features of Numpy
 * A powerful N-Dimensional array
 * Sophisticated Functions
 * Mathematical and Logical opertions
@@ -43,3 +43,31 @@ The official documentation is hosted on numpy.org: https://www.numpy.org
 
 
 -----
+
+#### Scikit-learn
+Simple and efficient tools for data mining and data analysis, The library is built upon the SciPy (Scientific Python) that must be installed before you can use scikit-learn. This stack that includes:
+
+* NumPy: Base n-dimensional array package
+* SciPy: Fundamental library for scientific computing
+* Matplotlib: Comprehensive 2D/3D plotting
+* IPython: Enhanced interactive console
+* Sympy: Symbolic mathematics
+* Pandas: Data structures and analysis Accessible to everybody, and reusable in various contexts
+
+###### Main Features of scikit-learn
+* Clustering: for grouping unlabeled data such as KMeans.
+* Datasets: for test datasets and for generating datasets with specific properties for investigating model behavior.
+* Feature extraction: for defining attributes in image and text data.
+* Dimensionality Reduction: for reducing the number of attributes in data for summarization, visualization and feature selection such as Principal component analysis.
+
+###### Documentation
+The official documentation is hosted on scikit-learn.org: http://scikit-learn.org
+
+
+-----
+
+#### Matplotlib
+ Comprehensive 2D/3D plotting
+ 
+###### Documentation
+The official documentation is hosted on matplotlib.org: http://matplotlib.org

@@ -9,7 +9,7 @@ This repo is for "Machine Learning from very basics".
 
 # Let's look into the use of packages
 
-###### Pandas
+### Pandas
 Pandas is a Python package providing fast, flexible, and expressive data structures designed to make working with "relational" or "labeled" data both easy and intuitive. 
 The most powerful and flexible open source data analysis / manipulation tool available in any language
 

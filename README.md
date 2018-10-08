@@ -71,3 +71,5 @@ The official documentation is hosted on scikit-learn.org: http://scikit-learn.or
  
 ###### Documentation
 The official documentation is hosted on matplotlib.org: http://matplotlib.org
+
+-----
